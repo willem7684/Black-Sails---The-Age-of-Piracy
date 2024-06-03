@@ -6,7 +6,8 @@
 
 - **Game Board:** A beautifull and realtime generated map of the Caribbean, featuring islands, ports, and treacherous waters.
 - **Player Pieces:** Detailed pirate ship miniatures and crew members.
-- **NPC Pieces:** Detailed non playable character pieces.- **Cards:**
+- **NPC Pieces:** Detailed non playable character pieces.
+- **Cards:**
   - **Quest Cards:** Multi-step missions filled with intrigue and danger.
   - **Event Cards:** Random occurrences that bring new challenges and opportunities.
   - **Treasure Cards:** Diverse treasures with unique values and effects.
